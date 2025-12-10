@@ -31,7 +31,7 @@ import javax.annotation.Nullable;
  * IO tools that depend on JDK only.
  *
  * @author Matthieu Casanova
- * @version $Id: IOUtilities.java 25273 2020-04-19 16:29:30Z kpouer $
+ * @version $Id: IOUtilities.java 25698 2023-11-17 01:31:50Z vampire0 $
  * @since 4.3pre5
  */
 public class IOUtilities
